@@ -4,6 +4,8 @@ Este programa busca los datos de fuente de poder en la página web de solotodo.c
 Para su utilización se implementó el uso de BeafitulSoup para la lectura del html de la página web.
 También se hizo uso de xlsxwriter para la creación y escritura del archivo xlsx.
 
+Línea 7 puede ser modificada para cambiar el nombre del archivo generado, éste será generado en la dirección del documento Scraper.py
+
 En la línea 14, 15 y 16 están los títulos de las columnas para un mejor entendimiento de los valores en el documento excel.
 
 De la línea 24 a 27 están los datos de carga y estado, éstos sirven para llevar un registro de cuántos elementos han sido insertados en el archivo y así poder saber el porcentaje que falta hasta su finalización.
