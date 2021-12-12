@@ -1,4 +1,4 @@
-# Scraper-de-pagina-web-e-inserci-n-de-datos-en-excel
+# Scraper de página web e inserción de datos en hoja excel.
 Este programa busca los datos de fuente de poder en la página web de solotodo.cl y los ordena por nombre, potencia y precio en un archivo .xlsx
 
 Para su utilización se implementó el uso de BeafitulSoup para la lectura del html de la página web.
