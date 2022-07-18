@@ -1,8 +1,9 @@
 # Scraper de página web e inserción de datos en hoja excel.
+
 Este programa busca los datos de fuente de poder en la página web de solotodo.cl y los ordena por nombre, potencia y precio en un archivo .xlsx
 
-Para su utilización se implementó el uso de BeafitulSoup para la lectura del html de la página web.
-También se hizo uso de xlsxwriter para la creación y escritura del archivo xlsx.
+##Para su utilización se implementó el uso de BeafitulSoup para la lectura del html de la página web.
+##También se hizo uso de xlsxwriter para la creación y escritura del archivo xlsx.
 
 Línea 7 puede ser modificada para cambiar el nombre del archivo generado, éste será generado en la dirección del documento Scraper.py
 
